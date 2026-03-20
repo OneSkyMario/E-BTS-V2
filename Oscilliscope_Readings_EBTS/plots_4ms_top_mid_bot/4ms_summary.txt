@@ -1,0 +1,26 @@
+Oscilloscope Summary
+====================
+
+Estimated dt [s]: 1.000000000e-09
+Estimated fs [Hz]: 1000000000.000
+
+top channel:
+  mean_V: 0.29338503433233504
+  std_V: 0.010706377619437615
+  min_V: 0.26031405479
+  max_V: 0.33317837561
+  peak_to_peak_V: 0.07286432082
+
+mid channel:
+  mean_V: 0.30105651666232996
+  std_V: 0.010262922404290768
+  min_V: 0.26533918036
+  max_V: 0.33820350119
+  peak_to_peak_V: 0.07286432083
+
+bot channel:
+  mean_V: -0.01941431248239
+  std_V: 0.05736143884722344
+  min_V: -0.26394381678
+  max_V: 0.16805488983
+  peak_to_peak_V: 0.43199870661

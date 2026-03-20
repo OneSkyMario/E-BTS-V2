@@ -1,0 +1,34 @@
+Input file: c:\Users\zakii\OneDrive\Desktop\Tactile\ICCA_2026_EBTS\Oscilliscope_Readings_EBTS\old\keysight_1_1.csv
+Samples: 2000
+Sample interval dt: 2.500000000000e-06 s
+Sample rate fs: 400000.000000 Hz
+
+=== CH1 ===
+Mean voltage:        1.341914473 V
+Min voltage:         0.299949660 V
+Max voltage:         2.400452150 V
+Peak-to-peak:        2.100502490 V
+Amplitude:           1.050251245 V
+RMS total:           1.690811659 V
+RMS AC:              1.028644553 V
+Dominant frequency:  200.000000000 Hz
+Period:              5.000000000000e-03 s
+Phase:               89.858428 deg
+
+=== CH2 ===
+Mean voltage:        1.456160998 V
+Min voltage:         0.415377090 V
+Max voltage:         2.500804203 V
+Peak-to-peak:        2.085427113 V
+Amplitude:           1.042713556 V
+RMS total:           1.779718773 V
+RMS AC:              1.023227275 V
+Dominant frequency:  200.000000000 Hz
+Period:              5.000000000000e-03 s
+Phase:               -89.917867 deg
+
+=== RELATION BETWEEN CHANNELS ===
+Shared dominant frequency: 200.000000000 Hz
+Shared period:             5.000000000000e-03 s
+Phase difference CH2-CH1:  -179.776295 deg
+Equivalent time delay:     -2.496892982833e-03 s

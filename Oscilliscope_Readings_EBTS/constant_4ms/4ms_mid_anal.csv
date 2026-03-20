@@ -1,0 +1,22 @@
+Date and Time , Wed Mar 11 18:53:22 2026
+
+Cursor Data
+Mode , Measure , Period(1)
+X1 , - - -
+X2 , - - -
+DeltaX , - - -
+1/DeltaX , - - -
+Y1 , - - -
+Y2 , - - -
+DeltaY , - - -
+DeltaY/DeltaX , - - -
+
+Measurement Results
+        , Pk-Pk(1) , Amplitude(1) , Frequency(1) , Period(1) 
+Current , 83mV     , Low signal   , Low signal   , Low signal
+Mean    , 79mV     ,              ,              ,           
+Min     , 65mV     ,              ,              ,           
+Max     , 99mV     ,              ,              ,           
+Std Dev , 5mV      ,              ,              ,           
+Count   , 660      , 0            , 0            , 0         
+

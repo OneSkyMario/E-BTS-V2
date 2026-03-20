@@ -1,0 +1,22 @@
+Date and Time , Wed Mar 11 18:45:25 2026
+
+Cursor Data
+Mode , Measure , Period(1)
+X1 , - - -
+X2 , - - -
+DeltaX , - - -
+1/DeltaX , - - -
+Y1 , -393.97mV
+Y2 , - - -
+DeltaY , - - -
+DeltaY/DeltaX , - - -
+
+Measurement Results
+        , Pk-Pk(1) , Amplitude(1) , Frequency(1) , Period(1)
+Current , 155mV    , 155mV        , No edges     , No edges 
+Mean    , 180mV    , 158mV        , 20.820MHz    , 3.9691ms 
+Min     , 16mV     , 126mV        , 10Hz         , 6.0ns    
+Max     , 460mV    , 250mV        , 170.00MHz    , 98.911ms 
+Std Dev , 93mV     , 14mV         , 26.721MHz    , 15.577ms 
+Count   , 5.461k   , 4.580k       , 743          , 742      
+
